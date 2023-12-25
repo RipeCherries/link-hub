@@ -2,7 +2,7 @@ import Animation from "@/components/Animation";
 
 export default function Hero() {
     return (
-        <section className="flex items-center justify-between pt-24 max-w-6xl mx-auto">
+        <section className="flex items-center justify-between pt-20">
             <div>
                 <div className="max-w-xl mb-8">
                     <h1 className="text-5xl font-bold text-zinc-600 text-justify">

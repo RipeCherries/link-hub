@@ -4,7 +4,7 @@ import { ImLink } from "react-icons/im";
 export default function Header() {
     return (
         <header className="bg-white border-b py-5">
-            <div className="max-w-4xl flex justify-between mx-auto px-6">
+            <div className="max-w-6xl mx-auto flex justify-between">
                 <div className="flex gap-10">
                     <Link href={'/'} className="flex items-center">
                         <ImLink size={24} style={{fill: "#1d4ed8"}}/>
